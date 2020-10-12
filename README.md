@@ -4,7 +4,6 @@
 ### Finance industry , like big banks and corporations, were not able at some point to recognize some common trends in the consumer market. For example , technology has totally revolutionized all aspects of our life. 
 
 ### Especially a boom in sales of cell phones and laptops with sophisticated features, softwares and programming languages that run in the background of these gadgets has led to the investment in new fintech start ups.  There are many domains at which this industry focuses on. Insurtech, regtech, wealth management, personal finance and online banking are few examples. Ten years ago, if I were to invest some of my capital in exchange traded funds, stocks and make portfolio management decisions  on minimum wage it would be almost impossible due to the expenses related to it, time management and lack of resources and knowledge. In fact, these tools were only available to wealthy people who had a certain amount of money ( above average ), and living income. 
-
 ### For these reasons, fintech start-ups as Wealthsimple accomplish a vital role in the wealth and investment management domain. 
 ### Wealthsimple Inc. is a Canadian online investment management service focused on millenials. It was officially founded in September 2014 by Michael Katchen. 
 
@@ -24,13 +23,11 @@
 ### The Data can be transmitted in a much more secure, efficient and consistent way. They use Data aggregation technology such as Yodlee, Plaid and Flinks to connect online banking accounts with Wealthsimple One. 
 ### On the other side, for trading users, WealthSimple has partnered with Xignite financial data API to power Wealth trade. 
 ### That's how Wealthsimple offers clients the opportunity to monitor their consolidated wealth from different Wealth managers on a single digital platform.
-
 ### Recently WealthSimple updated it's socially responsible portfolio with new ETF: The Wealthsimple North America socially responsible ETF (ticker: WSRI), that includes Canadians and US companies, and the Wealthsimple developed Markets ex-NA socially responsible ETF (ticker: WSRD) that include companies from Europe, Japan and Australia.
 
 
 ### Currently, Wealthsimple's biggest competitor is Questrade. Wealthsimple was only launched in 2014. On the other side Questrade first came in 1999. And now it offers all types of investments and stocks, both in the U.S. and  Canadian market. Wealthsimple has many limitations as well. 
 ### The only investments available through the service are ETFs or stocks listed on the NYSE, NASDAQ, TSX or TSX-V exchanges. And, even then, there are further restrictions. For example, stocks must be priced at a minimum of $0.50 per share and trade an average of at least 50,000 shares daily. Furthermore, if an asset is listed on both a US exchange and a Canadian exchange (i.e., it is a dual-listed security), only the Canadian-listed asset is available.
-
 ### The big plus for Wealthsimple Trade is its fees, which are literally impossible to beat: $0 commission on all purchases, sales and trades. The service currently primarily makes money from a 1.5% currency conversion fee charged on Canadian-to-U.S. dollar conversions (and vice-versa) that are required to trade U.S.-listed securities, and it plans to add premium services in the future that will come at extra cost.
 ### Questrade manages 15 billion dollar under administration and participates in more than 15 global markets , while WealthSimple 2 billion and trades only in North America and U.K.
 
